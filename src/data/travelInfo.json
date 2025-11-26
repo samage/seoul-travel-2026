@@ -1,0 +1,57 @@
+{
+  "accommodations": [
+    {
+      "icon": "Home",
+      "title": "明洞九樹飯店 (Nine Tree)",
+      "content": "2/4 - 2/6 (3晚)",
+      "subContent": "明洞站 8號出口附近，7號出口才有電扶梯，1 號出口有電梯。"
+    },
+    {
+      "icon": "Home",
+      "title": "弘大美居大使酒店",
+      "content": "2/7 - 2/11 (4晚)",
+      "subContent": "弘大入口站 9號出口附近，8號出口有電梯。"
+    }
+  ],
+  "flights": [
+    {
+      "icon": "Plane",
+      "title": "去程航班",
+      "content": "BR170 0705-1030",
+      "subContent": "桃園國際機場二航廈 → 仁川國際機場一航廈"
+    },
+    {
+      "icon": "Plane",
+      "title": "去程航班",
+      "content": "BR140 0650-1045",
+      "subContent": "高雄國際機場一航廈 → 仁川國際機場一航廈"
+    },
+    {
+      "icon": "Plane",
+      "title": "回程航班",
+      "content": "BR169 1140-1330",
+      "subContent": "仁川國際機場一航廈 → 桃園國際機場二航廈"
+    },
+    {
+      "icon": "Plane",
+      "title": "回程航班",
+      "content": "BR139 1145-1355",
+      "subContent": "仁川國際機場一航廈 → 高雄國際機場一航廈"
+    }
+  ],
+  "emergencyContacts": [
+    {
+      "icon": "Phone",
+      "title": "韓國觀光熱線",
+      "content": "1330 (有中文服務)",
+      "subContent": "24小時服務"
+    },
+    {
+      "icon": "Phone",
+      "title": "外交部旅外救助",
+      "content": "+82-2-399-2767",
+      "subContent": null
+    }
+  ]
+}
+

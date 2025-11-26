@@ -1,0 +1,297 @@
+[
+  {
+    "day": 1,
+    "date": "2/4 (三)",
+    "title": "抵達與明洞初體驗",
+    "weather": "sunny",
+    "summary": "機場 → 飯店 → 明洞美食與亂打秀",
+    "hotel": "明洞九樹飯店 (Nine Tree Hotel)",
+    "steps": [
+      {
+        "time": "下午",
+        "title": "抵達首爾 & 飯店 Check-in",
+        "type": "transport",
+        "location": "Nine Tree Hotel Myeongdong",
+        "note": "明洞站 8號出口附近，7號出口才有電扶梯，1 號出口有電梯。",
+        "transportToHere": "從機場搭 AREX 到 首爾站，4 號線 (Line 4) 淺藍色，首爾 (서울, 426) → 明洞 (명동, 424)"
+      },
+      {
+        "time": "晚上",
+        "title": "明洞街頭小吃 & 換錢",
+        "type": "food",
+        "location": "Myeongdong Street",
+        "note": "推薦：雞蛋糕、辣炒年糕。記得去大使館前換錢所比較匯率。",
+        "guideTag": "必吃: 街頭小吃"     
+      },
+      {
+        "time": "晚餐",
+        "title": "王妃家 (Wangbijib) 烤肉",
+        "type": "food",
+        "location": "Wangbijib Myeongdong Main Store",
+        "note": "人氣韓牛燒肉店，建議事先訂位。",
+        "guideTag": "必吃: 韓牛"        
+      },
+      {
+        "time": "20:00",
+        "title": "明洞亂打秀 (NANTA)",
+        "type": "activity",
+        "location": "Myeongdong Nanta Theatre",
+        "note": "位於UNESCO會館3樓，步行即可到達。",
+        "guideTag": "必看表演"        
+      }
+     
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2/5 (四)",
+    "title": "歷史文化與色彩體驗",
+    "weather": "cloudy",
+    "summary": "景福宮 → 通仁市場 → 仁寺洞 → N首爾塔",
+    "hotel": "明洞九樹飯店",
+    "steps": [
+      {
+        "time": "09:30",
+        "title": "景福宮 (Gyeongbokgung)",
+        "type": "activity",
+        "location": "Gyeongbokgung Palace",
+        "note": "穿韓服可免費入場。守門將換崗儀式約10:00開始。",
+        "guideTag": "必拍: 韓服體驗",
+        "transportToHere": "4 號線 → 3 號線，明洞 (명동, 424) → 忠武路 (충무로, 423) → 景福宮 (경복궁, 327)"        
+      },
+      {
+        "time": "12:30",
+        "title": "通仁市場 (Tongin Market)",
+        "type": "food",
+        "location": "Tongin Market",
+        "note": "必玩「銅錢便當」！先去顧客中心換古銅錢，再去各攤位買菜。",
+        "guideTag": "必玩: 銅錢便當",
+        "transportToNext": "3 號線，景福宮 (경복궁, 327) → 安國 (안국, 328)"
+      },
+      {
+        "time": "14:30",
+        "title": "Color Pool Museum",
+        "type": "activity",
+        "location": "Color Pool Museum Insadong",
+        "note": "位於仁寺洞，超好拍的色彩展覽。",
+        "guideTag": "打卡熱點",
+        "transportToNext": "3 號線 → 4 號線，安國 (안국, 328) → 忠武路 (충무로, 331) → 會賢 (회현, 425) (出站後步行至南山纜車電梯)。"
+      },
+      {
+        "time": "17:00",
+        "title": "N首爾塔 (南山塔)",
+        "type": "activity",
+        "location": "N Seoul Tower",
+        "note": "搭乘南山纜車上山，欣賞首爾夜景。",
+        "guideTag": "必看: 夜景",
+        "transportToHotel": "南山纜車下山，步行回飯店"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2/6 (五)",
+    "title": "江南都會與浪漫漢江",
+    "weather": "sunny",
+    "summary": "COEX → 星空圖書館 → 漢江遊船",
+    "hotel": "明洞九樹飯店",
+    "steps": [
+      {
+        "time": "09:30",
+        "title": "COEX 水族館",
+        "type": "activity",
+        "location": "COEX Aquarium",
+        "note": "位於COEX Mall內，適合拍照。",
+        "guideTag": "親子推薦",
+        "transportToHere": "4 號線 → 2 號線，明洞 (명동, 424) → 東大門歷史文化公園 (동대문역사문화공원, 422) → 三成 (삼성, 219) (5/6 號出口，步行至 COEX)"        
+      },
+      {
+        "time": "11:00",
+        "title": "星空圖書館 (Starfield Library)",
+        "type": "activity",
+        "location": "Starfield Library",
+        "note": "巨型書牆，位於COEX中庭。",
+        "guideTag": "必拍: 網美牆"
+      },
+      {
+        "time": "12:00",
+        "title": "COEX午餐 & 購物",
+        "type": "food",
+        "location": "COEX Mall",
+        "note": "商城內有各類品牌與餐廳。",
+        "transportToNext": "2 號線 → 盆唐線，三成 (삼성, 219) → 宣陵 (선릉, 220) → 狎鷗亭羅德奧 (압구정로데오, K212) (5 號出口，步行約 6 分鐘)。"
+      },
+      {
+        "time": "14:00",
+        "title": "Figure Museum W",
+        "type": "activity",
+        "location": "Figure Museum W (狎鷗亭羅德奧)",
+        "note": "參觀模型與玩具博物館。",
+        "transportToNext": "盆唐線 → 9 號線，狎鷗亭羅德奧 (압구정로데오, K212) → 宣陵 (선릉, K214) → 鷺梁津 (노량진, 917) → 國會議事堂 (국회의사당, 914) (3 號出口，步行約 15-20 分鐘)。"
+      },
+      {
+        "time": "17:00",
+        "title": "漢江遊船 / 盤浦大橋",
+        "type": "activity",
+        "location": "Banpo Hangang Park",
+        "note": "享受漢江浪漫氛圍，若天氣許可可能有月光彩虹噴泉(需確認冬季開放狀況)。",
+        "guideTag": "浪漫景點",
+        "transportToHotel": "9 號線 → 5 號線 → 4 號線，國會議事堂 (국회의사당, 914) → 汝矣島 (여의도, 915) → 東大門歷史文化公園 (동대문역사문화공원, 536) → 明洞 (명동, 424)"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2/7 (六)",
+    "title": "弘大與室內動物園",
+    "weather": "cloudy",
+    "summary": "移動至弘大 → 特麗愛美術館 → 室內動物園",
+    "hotel": "首爾弘大美居大使酒店 (Mercure Hongdae)",
+    "steps": [
+      {
+        "time": "上午",
+        "title": "飯店移動: 前往弘大",
+        "type": "transport",
+        "location": "Mercure Ambassador Seoul Hongdae",
+        "note": "Check-out 並移動至弘大飯店寄放行李。",
+        "transportToHere": "4 號線 → 2 號線，明洞 (명동, 424) → 東大門歷史文化公園 (동대문역사문화공원, 422) → 弘大入口 (홍대입구, 239)"
+      },
+      {
+        "time": "11:00",
+        "title": "特麗愛 3D 美術館 (Trick Eye)",
+        "type": "activity",
+        "location": "Trick Eye Museum Seoul",
+        "note": "位於弘大商圈，利用錯位拍出有趣照片。",
+        "transportToNext": "2 號線，弘大入口 (홍대입구, 239) → 永登浦 (영등포, 236)"
+      },
+      {
+        "time": "14:30",
+        "title": "Zoolung Zoolung 室內動物園",
+        "type": "activity",
+        "location": "Zoolung Zoolung Times Square",
+        "note": "位於永登浦時代廣場，近距離接觸小動物。",
+        "guideTag": "親子必去",
+        "transportToNext": "2 號線，永登浦 (영등포, 236) → 弘大入口 (홍대입구, 239)"
+      },
+      {
+        "time": "晚上",
+        "title": "弘大商圈逛街",
+        "type": "shopping",
+        "location": "Hongdae Shopping Street",
+        "note": "服飾、街頭表演、酒吧。晚餐可在弘大解決。",
+        "guideTag": "必買: 潮流服飾",
+        "transportToHotel": "步行回弘大美居大使酒店"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2/8 (日)",
+    "title": "樂園狂歡 (蠶室)",
+    "weather": "Sunny",
+    "summary": "弘大出發 → 樂天世界全日遊 ",
+    "hotel": "首爾弘大美居大使酒店 (Mercure Hongdae) ",
+    "steps": [
+        {
+            "time": "08:30 - 09:30",
+            "title": "弘大站出發 > 樂天世界",
+            "type": "transport",
+            "location": "樂天世界 (Lotte World) / 蠶室站 (잠실, 216)",
+            "note": "地鐵 2 號線直達最方便，車程約 50 分鐘。",
+            "transportToHere": "2 號線，弘大入口 (홍대입구, 239) → 蠶室 (잠실, 216)"
+        },
+        {
+            "time": "09:30 - 17:00",
+            "title": "樂天世界主題樂園 (Lotte World)",
+            "type": "activity",
+            "location": "Lotte World (室內/外)",
+            "note": "建議先排隊玩熱門設施。樂園入場門票假設已包含在『轉轉卡』或其他套票中。",
+            "transportToNext": "N/A (園區內活動)"
+        },
+        {
+            "time": "17:00 - 結束",
+            "title": "晚餐/自由活動與移動",
+            "type": "food/transport",
+            "location": "蠶室商圈 / 前往首爾站",
+            "note": "在樂天世界購物中心 (Lotte World Mall) 或周邊解決晚餐，隨後前往首爾站轉乘 AREX 機場快線。",
+            "transportToNext": "2 號線 → 蠶室 (잠실, 216) → 弘大入口 (홍대입구, 239)。"
+        }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2/9 (一)",
+    "title": "冰谷與冬季戀歌",
+    "weather": "snow",
+    "summary": "Eobi冰谷 → 南怡島一日遊",
+    "hotel": "首爾弘大美居大使酒店",
+    "steps": [
+      {
+        "time": "全天",
+        "title": "Eobi 冰谷 & 南怡島一日遊",
+        "type": "activity",
+        "location": "Nami Island",
+        "note": "Klook/KKday 行程。集合地點通常在弘大站。Eobi冰谷有壯觀冰壁。",
+        "guideTag": "必拍: 冰壁絕景",
+        "transportToHere": "從飯店：步行至弘大入口站集合點"
+      },
+      {
+        "time": "備註",
+        "title": "保暖提醒",
+        "type": "info",
+        "location": "",
+        "note": "戶外時間長，請準備暖暖包、手套、毛帽。",
+        "guideTag": "重要提醒",
+        "transportToHotel": "一日遊行程結束後，集合點通常會送回弘大站，步行回飯店"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2/10 (二)",
+    "title": "滑雪體驗",
+    "weather": "snow",
+    "summary": "滑雪一日遊 (Vivaldi Park)",
+    "hotel": "首爾弘大美居大使酒店",
+    "steps": [
+      {
+        "time": "全天",
+        "title": "滑雪一日遊",
+        "type": "activity",
+        "location": "Vivaldi Park Ski World",
+        "note": "含教學、裝備。記得確認集合時間地點(弘大)。",
+        "guideTag": "必玩: 滑雪",
+        "transportToHere": "從飯店：步行至弘大入口站集合點"
+      },
+      {
+        "time": "晚餐",
+        "title": "弘大烤腸或炸雞",
+        "type": "food",
+        "location": "Hongdae Kyochon Chicken",
+        "note": "滑雪後體力消耗大，建議吃高熱量美食補充體力！",
+        "guideTag": "必吃: 橋村炸雞",
+        "transportToHotel": "步行回弘大美居大使酒店，約5-10分鐘"
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "date": "2/11 (三)",
+    "title": "返程",
+    "weather": "sunny",
+    "summary": "最後採買 → 機場",
+    "hotel": "甜蜜的家",
+    "steps": [    
+      {
+        "time": "08:40",
+        "title": "前往仁川機場",
+        "type": "transport",
+        "location": "Incheon International Airport",
+        "note": "預約接送或搭乘機場快線 AREX。請提早3小時抵達機場。",
+        "guideTag": "退稅提醒",
+        "transportToHere": "從飯店：地鐵2號線弘大入口站 → 首爾站，轉機場快線 AREX"
+      }
+    ]
+  }
+]
+
