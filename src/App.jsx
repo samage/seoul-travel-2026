@@ -19,7 +19,7 @@ import travelInfo from './data/travelInfo.json';
 
 const SeoulTravelApp = () => {
   const [activeTab, setActiveTab] = useState('itinerary');
-  const [expandedDay, setExpandedDay] = useState(0);
+  const [expandedDay, setExpandedDay] = useState(-1);
 
   const openMap = (location) => {
     // 嘗試打開 Naver Map app

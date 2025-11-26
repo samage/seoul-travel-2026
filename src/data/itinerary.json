@@ -74,7 +74,15 @@
         "type": "activity",
         "location": "Color Pool Museum Insadong",
         "note": "位於仁寺洞，超好拍的色彩展覽。",
-        "guideTag": "打卡熱點",
+        "guideTag": "打卡熱點"        
+      },
+      {
+        "time": "17:00",
+        "title": "晚餐：兩班家 (Yangban-jib)",
+        "type": "food",
+        "location": "종로구 인사동길 19-18",
+        "note": "享用韓式精緻套餐或烤肉。",
+        "guideTag": "韓式套餐",
         "transportToNext": "3 號線 → 4 號線，安國 (안국, 328) → 忠武路 (충무로, 331) → 會賢 (회현, 425) (出站後步行至南山纜車電梯)。"
       },
       {
@@ -197,7 +205,7 @@
             "title": "弘大站出發 > 樂天世界",
             "type": "transport",
             "location": "樂天世界 (Lotte World) / 蠶室站 (잠실, 216)",
-            "note": "地鐵 2 號線直達最方便，車程約 50 分鐘。",
+            "note": "**【卡片失效倒數】**請務必在卡片失效前（約 9:00AM 左右）抵達並進入樂天世界。",
             "transportToHere": "2 號線，弘大入口 (홍대입구, 239) → 蠶室 (잠실, 216)"
         },
         {
