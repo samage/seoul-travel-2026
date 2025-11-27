@@ -21,7 +21,7 @@
         "type": "food",
         "location": "Myeongdong Street",
         "note": "推薦：雞蛋糕、辣炒年糕。記得去大使館前換錢所比較匯率。",
-        "guideTag": "必吃: 街頭小吃"     
+        "guideTag": "必吃: 街頭小吃"
       },
       {
         "time": "晚餐",
@@ -29,7 +29,7 @@
         "type": "food",
         "location": "Wangbijib Myeongdong Main Store",
         "note": "人氣韓牛燒肉店，建議事先訂位。",
-        "guideTag": "必吃: 韓牛"        
+        "guideTag": "必吃: 韓牛"
       },
       {
         "time": "20:00",
@@ -37,9 +37,8 @@
         "type": "activity",
         "location": "Myeongdong Nanta Theatre",
         "note": "位於UNESCO會館3樓，步行即可到達。",
-        "guideTag": "必看表演"        
+        "guideTag": "必看表演"
       }
-     
     ]
   },
   {
@@ -57,7 +56,7 @@
         "location": "Gyeongbokgung Palace",
         "note": "穿韓服可免費入場。守門將換崗儀式約10:00開始。",
         "guideTag": "必拍: 韓服體驗",
-        "transportToHere": "4 號線 → 3 號線，明洞 (명동, 424) → 忠武路 (충무로, 423) → 景福宮 (경복궁, 327)"        
+        "transportToHere": "4 號線 → 3 號線，明洞 (명동, 424) → 忠武路 (충무로, 423) → 景福宮 (경복궁, 327)"
       },
       {
         "time": "12:30",
@@ -74,7 +73,7 @@
         "type": "activity",
         "location": "Color Pool Museum Insadong",
         "note": "位於仁寺洞，超好拍的色彩展覽。",
-        "guideTag": "打卡熱點"        
+        "guideTag": "打卡熱點"
       },
       {
         "time": "17:00",
@@ -111,7 +110,7 @@
         "location": "COEX Aquarium",
         "note": "位於COEX Mall內，適合拍照。",
         "guideTag": "親子推薦",
-        "transportToHere": "4 號線 → 2 號線，明洞 (명동, 424) → 東大門歷史文化公園 (동대문역사문화공원, 422) → 三成 (삼성, 219) (5/6 號出口，步行至 COEX)"        
+        "transportToHere": "4 號線 → 2 號線，明洞 (명동, 424) → 東大門歷史文化公園 (동대문역사문화공원, 422) → 三成 (삼성, 219) (5/6 號出口，步行至 COEX)"
       },
       {
         "time": "11:00",
@@ -193,37 +192,37 @@
     ]
   },
   {
-    "day": 4,
+    "day": 5,
     "date": "2/8 (日)",
     "title": "樂園狂歡 (蠶室)",
     "weather": "Sunny",
     "summary": "弘大出發 → 樂天世界全日遊 ",
     "hotel": "首爾弘大美居大使酒店 (Mercure Hongdae) ",
     "steps": [
-        {
-            "time": "08:30 - 09:30",
-            "title": "弘大站出發 > 樂天世界",
-            "type": "transport",
-            "location": "樂天世界 (Lotte World) / 蠶室站 (잠실, 216)",
-            "note": "**【卡片失效倒數】**請務必在卡片失效前（約 9:00AM 左右）抵達並進入樂天世界。",
-            "transportToHere": "2 號線，弘大入口 (홍대입구, 239) → 蠶室 (잠실, 216)"
-        },
-        {
-            "time": "09:30 - 17:00",
-            "title": "樂天世界主題樂園 (Lotte World)",
-            "type": "activity",
-            "location": "Lotte World (室內/外)",
-            "note": "建議先排隊玩熱門設施。樂園入場門票假設已包含在『轉轉卡』或其他套票中。",
-            "transportToNext": "N/A (園區內活動)"
-        },
-        {
-            "time": "17:00 - 結束",
-            "title": "晚餐/自由活動與移動",
-            "type": "food/transport",
-            "location": "蠶室商圈 / 前往首爾站",
-            "note": "在樂天世界購物中心 (Lotte World Mall) 或周邊解決晚餐，隨後前往首爾站轉乘 AREX 機場快線。",
-            "transportToNext": "2 號線 → 蠶室 (잠실, 216) → 弘大入口 (홍대입구, 239)。"
-        }
+      {
+        "time": "08:30 - 09:30",
+        "title": "弘大站出發 > 樂天世界",
+        "type": "transport",
+        "location": "樂天世界 (Lotte World) / 蠶室站 (잠실, 216)",
+        "note": "**【卡片失效倒數】**請務必在卡片失效前（約 9:00AM 左右）抵達並進入樂天世界。",
+        "transportToHere": "2 號線，弘大入口 (홍대입구, 239) → 蠶室 (잠실, 216)"
+      },
+      {
+        "time": "09:30 - 17:00",
+        "title": "樂天世界主題樂園 (Lotte World)",
+        "type": "activity",
+        "location": "Lotte World (室內/外)",
+        "note": "建議先排隊玩熱門設施。樂園入場門票假設已包含在『轉轉卡』或其他套票中。",
+        "transportToNext": "N/A (園區內活動)"
+      },
+      {
+        "time": "17:00 - 結束",
+        "title": "晚餐/自由活動與移動",
+        "type": "food/transport",
+        "location": "蠶室商圈 / 前往首爾站",
+        "note": "在樂天世界購物中心 (Lotte World Mall) 或周邊解決晚餐，隨後前往首爾站轉乘 AREX 機場快線。",
+        "transportToNext": "2 號線 → 蠶室 (잠실, 216) → 弘大入口 (홍대입구, 239)。"
+      }
     ]
   },
   {
@@ -231,54 +230,119 @@
     "date": "2/9 (一)",
     "title": "冰谷與冬季戀歌",
     "weather": "snow",
-    "summary": "Eobi冰谷 → 南怡島一日遊",
+    "summary": "Eobi冰谷 → 草莓採摘 → 南怡島 → 晨靜樹木園",
     "hotel": "首爾弘大美居大使酒店",
     "steps": [
       {
-        "time": "全天",
-        "title": "Eobi 冰谷 & 南怡島一日遊",
-        "type": "activity",
-        "location": "Nami Island",
-        "note": "Klook/KKday 行程。集合地點通常在弘大站。Eobi冰谷有壯觀冰壁。",
-        "guideTag": "必拍: 冰壁絕景",
-        "transportToHere": "從飯店：步行至弘大入口站集合點"
+        "time": "06:30",
+        "title": "弘大入口站 8號出口集合",
+        "type": "transport",
+        "location": "Hongik Univ. Station Exit 8",
+        "note": "準時出發，逾時不候。Klook 方案 D (Eobi冰谷+草莓+南怡島+晨靜樹木園)。",
+        "transportToHere": "從飯店步行至弘大入口站 8號出口"
       },
       {
-        "time": "備註",
-        "title": "保暖提醒",
-        "type": "info",
-        "location": "",
-        "note": "戶外時間長，請準備暖暖包、手套、毛帽。",
-        "guideTag": "重要提醒",
-        "transportToHotel": "一日遊行程結束後，集合點通常會送回弘大站，步行回飯店"
+        "time": "07:00",
+        "title": "明洞站 2號出口集合",
+        "type": "transport",
+        "location": "Myeongdong Station Exit 2",
+        "note": "中途停靠點。",
+        "transportToNext": "前往 Eobi 冰谷"
+      },
+      {
+        "time": "09:00 - 10:30",
+        "title": "Eobi 冰谷 (Eobi Ice Valley)",
+        "type": "activity",
+        "location": "Eobi Ice Valley",
+        "note": "欣賞壯觀的人工冰壁，拍照打卡熱點。",
+        "guideTag": "必拍: 冰壁絕景",
+        "transportToNext": "前往草莓園"
+      },
+      {
+        "time": "11:00 - 12:30",
+        "title": "草莓採摘體驗",
+        "type": "activity",
+        "location": "Strawberry Farm",
+        "note": "體驗採摘新鮮草莓 (取代羊駝世界)。",
+        "guideTag": "親子體驗",
+        "transportToNext": "前往南怡島"
+      },
+      {
+        "time": "13:30 - 16:00",
+        "title": "南怡島 (Nami Island)",
+        "type": "activity",
+        "location": "Nami Island",
+        "note": "冬季戀歌拍攝地，漫步水杉林道。",
+        "guideTag": "必遊景點",
+        "transportToNext": "前往晨靜樹木園"
+      },
+      {
+        "time": "16:30 - 18:00",
+        "title": "晨靜樹木園 (五色星光庭園展)",
+        "type": "activity",
+        "location": "Garden of Morning Calm",
+        "note": "欣賞冬季限定的五色星光庭園展 (Lighting Festival)。",
+        "guideTag": "必看: 燈光節",
+        "transportToNext": "18:00 返回首爾"
+      },
+      {
+        "time": "19:30",
+        "title": "抵達明洞站",
+        "type": "transport",
+        "location": "Myeongdong Station",
+        "note": "可在此下車或繼續前往弘大。",
+        "transportToNext": "前往弘大"
+      },
+      {
+        "time": "20:00",
+        "title": "抵達弘大入口站",
+        "type": "transport",
+        "location": "Hongik Univ. Station",
+        "note": "行程結束，解散。",
+        "transportToHotel": "步行回弘大美居大使酒店"
       }
     ]
   },
   {
     "day": 7,
     "date": "2/10 (二)",
-    "title": "滑雪體驗",
+    "title": "冰雪樂園一日遊",
     "weather": "snow",
-    "summary": "滑雪一日遊 (Vivaldi Park)",
+    "summary": "弘大出發 → 冰雪樂園 (Snowy Land) → 返回弘大",
     "hotel": "首爾弘大美居大使酒店",
     "steps": [
       {
-        "time": "全天",
-        "title": "滑雪一日遊",
+        "time": "06:30",
+        "title": "弘大入口站 8號出口集合",
+        "type": "transport",
+        "location": "Hongik Univ. Station Exit 8",
+        "note": "準時出發，逾時不候。Klook 方案 D (Snowy Land)。",
+        "transportToHere": "從飯店步行至弘大入口站 8號出口"
+      },
+      {
+        "time": "09:00 - 16:00",
+        "title": "維瓦爾第度假村 冰雪樂園 (Snowy Land)",
         "type": "activity",
-        "location": "Vivaldi Park Ski World",
-        "note": "含教學、裝備。記得確認集合時間地點(弘大)。",
-        "guideTag": "必玩: 滑雪",
-        "transportToHere": "從飯店：步行至弘大入口站集合點"
+        "location": "Vivaldi Park Snowy Land",
+        "note": "自由活動時間。享受雪地設施！(含觀光纜車 + Snowy Land 入場券)",
+        "guideTag": "必玩: 冰雪樂園",
+        "transportToNext": "16:00 集合返回首爾"
+      },
+      {
+        "time": "18:30",
+        "title": "抵達弘大入口站",
+        "type": "transport",
+        "location": "Hongik Univ. Station",
+        "note": "行程結束，解散。",
+        "transportToHotel": "步行回弘大美居大使酒店"
       },
       {
         "time": "晚餐",
         "title": "弘大烤腸或炸雞",
         "type": "food",
         "location": "Hongdae Kyochon Chicken",
-        "note": "滑雪後體力消耗大，建議吃高熱量美食補充體力！",
-        "guideTag": "必吃: 橋村炸雞",
-        "transportToHotel": "步行回弘大美居大使酒店，約5-10分鐘"
+        "note": "玩雪後體力消耗大，建議吃高熱量美食補充體力！",
+        "guideTag": "必吃: 橋村炸雞"
       }
     ]
   },
@@ -289,7 +353,7 @@
     "weather": "sunny",
     "summary": "最後採買 → 機場",
     "hotel": "甜蜜的家",
-    "steps": [    
+    "steps": [
       {
         "time": "08:40",
         "title": "前往仁川機場",
@@ -302,4 +366,3 @@
     ]
   }
 ]
-
