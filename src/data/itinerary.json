@@ -16,7 +16,34 @@
         "transportToHere": "從機場搭 AREX 到 首爾站，4 號線 (Line 4) 淺藍色，首爾 (서울, 426) → 明洞 (명동, 424)"
       },
       {
-        "time": "晚上",
+        "time": "中午",
+        "title": "午餐：明洞站附近餐廳選擇",
+        "type": "food",
+        "location": "Myeongdong",
+        "note": "抵達明洞後，可在飯店附近選擇以下人氣餐廳。",
+        "recommendations": [
+          {
+            "restaurant": "明洞餃子 (명동교자)",
+            "type": "刀削麵、餃子",
+            "note": "米其林推薦名店，主打大蒜口味泡菜與刀削麵，適合快速、熱騰騰地解決午餐。",
+            "location": "서울특별시 중구 명동10길 29"
+          },
+          {
+            "restaurant": "神仙雪濃湯 明洞店 (신선설농탕 명동점)",
+            "type": "雪濃湯",
+            "note": "24小時營業，清淡濃郁的牛肉湯飯，是旅途中清胃暖身的最佳選擇。",
+            "location": "서울특별시 중구 명동길 56 2층"
+          },
+          {
+            "restaurant": "百濟蔘雞湯 (백제삼계탕)",
+            "type": "蔘雞湯",
+            "note": "經典韓式滋補料理，在寒冷的二月享用人蔘雞湯非常暖和。",
+            "location": "서울특별시 중구 명동8길 8-10"
+          }
+        ]
+      },
+      {
+        "time": "下午",
         "title": "明洞街頭小吃 & 換錢",
         "type": "food",
         "location": "Myeongdong Street",
@@ -122,10 +149,24 @@
       },
       {
         "time": "12:00",
-        "title": "COEX午餐 & 購物",
+        "title": "午餐：COEX Mall 內餐廳選擇",
         "type": "food",
         "location": "COEX Mall",
-        "note": "商城內有各類品牌與餐廳。",
+        "note": "商城內有各類品牌與餐廳，以下為人氣推薦。",
+        "recommendations": [
+          {
+            "restaurant": "奉恩寺韓定食 (SUDAM 수담 한정식)",
+            "type": "傳統韓定食",
+            "note": "位於COEX附近，可享用傳統精緻韓定食。",
+            "location": "서울특별시 강남구 봉은사로 418"
+          },
+          {
+            "restaurant": "Starfield Coex Mall 美食街",
+            "type": "多國料理、速食",
+            "note": "提供多樣化的餐飲選擇，方便快捷，適合購物行程。",
+            "location": "서울특별시 강남구 영동대로 513 (코엑스몰)"
+          }
+        ],
         "transportToNext": "2 號線 → 盆唐線，三成 (삼성, 219) → 宣陵 (선릉, 220) → 狎鷗亭羅德奧 (압구정로데오, K212) (5 號出口，步行約 6 分鐘)。"
       },
       {
@@ -142,7 +183,28 @@
         "type": "activity",
         "location": "Banpo Hangang Park",
         "note": "享受漢江浪漫氛圍，若天氣許可可能有月光彩虹噴泉(需確認冬季開放狀況)。",
-        "guideTag": "浪漫景點",
+        "guideTag": "浪漫景點"
+      },
+      {
+        "time": "晚上",
+        "title": "晚餐：漢江公園/高速巴士客運站附近選擇",
+        "type": "food",
+        "location": "Gangnam/Express Bus Terminal",
+        "note": "看完漢江夜景後，可在高速巴士客運站(Goto Mall)或江南一帶用餐。",
+        "recommendations": [
+          {
+            "restaurant": "Goto Mall 地下街美食",
+            "type": "平價小吃、年糕鍋",
+            "note": "位於高速巴士客運站地下街，方便逛街兼覓食。",
+            "location": "서울특별시 서초구 신반포로 지하 200"
+          },
+          {
+            "restaurant": "橋村炸雞 江南店 (교촌치킨 강남점)",
+            "type": "韓式炸雞",
+            "note": "江南站附近的人氣炸雞店，適合搭配啤酒補充體力。",
+            "location": "서울특별시 강남구 강남대로98길 11"
+          }
+        ],
         "transportToHotel": "9 號線 → 5 號線 → 4 號線，國會議事堂 (국회의사당, 914) → 汝矣島 (여의도, 915) → 東大門歷史文化公園 (동대문역사문화공원, 536) → 明洞 (명동, 424)"
       }
     ]
@@ -172,6 +234,33 @@
         "transportToNext": "2 號線，弘大入口 (홍대입구, 239) → 永登浦 (영등포, 236)"
       },
       {
+        "time": "中午",
+        "title": "午餐：永登浦時代廣場附近選擇",
+        "type": "food",
+        "location": "Yeongdeungpo Times Square",
+        "note": "位於室內動物園所在的時代廣場購物中心內，選擇多樣。",
+        "recommendations": [
+          {
+            "restaurant": "時代廣場美食街",
+            "type": "多樣化選擇",
+            "note": "提供韓式、日式、西式等多樣化料理，適合尋求快速和多選擇的團體。",
+            "location": "영등포 타임스퀘어 내 푸드코트"
+          },
+          {
+            "restaurant": "時代廣場內的韓式餐廳",
+            "type": "韓式豆腐鍋/韓式簡餐",
+            "note": "仍在時代廣場內，不必外出即可享受熱騰騰的韓式料理，方便快捷。",
+            "location": "서울특별시 영등포구 영중로 159 (타임스퀘어 내 식당가)"
+          },
+          {
+            "restaurant": "摩斯漢堡/速食店",
+            "type": "速食/簡餐",
+            "note": "時代廣場內有連鎖速食店，可快速解決午餐。",
+            "location": "영등포 타임스퀘어 내"
+          }
+        ]
+      },
+      {
         "time": "14:30",
         "title": "Zoolung Zoolung 室內動物園",
         "type": "activity",
@@ -186,7 +275,34 @@
         "type": "shopping",
         "location": "Hongdae Shopping Street",
         "note": "服飾、街頭表演、酒吧。晚餐可在弘大解決。",
-        "guideTag": "必買: 潮流服飾",
+        "guideTag": "必買: 潮流服飾"
+      },
+      {
+        "time": "晚餐",
+        "title": "晚餐：弘大商圈人氣餐廳選擇",
+        "type": "food",
+        "location": "Hongdae Shopping Street",
+        "note": "弘大周邊有大量時尚餐廳和學生美食，以下為人氣選項。",
+        "recommendations": [
+          {
+            "restaurant": "小豬存錢筒石頭烤肉 (돼지저금통)",
+            "type": "炭火石板烤肉",
+            "note": "弘大著名的人氣烤肉店，獨特的炭火香氣非常受歡迎。",
+            "location": "서울특별시 마포구 어울마당로 146-1"
+          },
+          {
+            "restaurant": "樂伯部隊鍋 (놀부부대찌개 을지로6가점)",
+            "type": "部隊鍋",
+            "note": "適合在寒冷的天氣中享用熱騰騰的部隊鍋。",
+            "location": "서울특별시 중구 을지로6가 23-26 2F"
+          },
+          {
+            "restaurant": "橋村炸雞 弘大店 (교촌치킨 홍대점)",
+            "type": "韓式炸雞啤酒",
+            "note": "韓國必吃炸雞品牌，搭配啤酒是完美的弘大之夜。",
+            "location": "서울특별시 마포구 양화로16길 6"
+          }
+        ],
         "transportToHotel": "步行回弘大美居大使酒店"
       }
     ]
@@ -216,11 +332,58 @@
         "transportToNext": "N/A (園區內活動)"
       },
       {
+        "time": "中午",
+        "title": "午餐：樂天世界/購物中心內選擇",
+        "type": "food",
+        "location": "Lotte World / Lotte World Mall",
+        "note": "樂園內或連通的 Lotte World Mall 都有許多餐廳，建議選擇靠近遊玩區域的，以節省時間。",
+        "recommendations": [
+          {
+            "restaurant": "樂天世界美食廣場",
+            "type": "多國料理、簡餐",
+            "note": "位於樂園內，選擇多樣化且能快速用餐，適合爭取時間繼續玩設施。",
+            "location": "롯데월드 어드벤처 내 푸드코트"
+          },
+          {
+            "restaurant": "樂天世界塔購物中心 (Lotte World Mall) 內餐廳",
+            "type": "各國連鎖餐廳",
+            "note": "若想吃好一點，可到連通的購物中心，選擇會更多且用餐環境較好。",
+            "location": "서울특별시 송파구 올림픽로 300 롯데월드몰"
+          },
+          {
+            "restaurant": "樂天里民食堂 (롯데리아)",
+            "type": "韓式速食",
+            "note": "樂天旗下的速食品牌，快速解決午餐。",
+            "location": "롯데월드 어드벤처 내 롯데리아"
+          }
+        ]
+      },
+      {
         "time": "17:00 - 結束",
         "title": "晚餐/自由活動與移動",
         "type": "food/transport",
         "location": "蠶室商圈 / 前往首爾站",
-        "note": "在樂天世界購物中心 (Lotte World Mall) 或周邊解決晚餐，隨後前往首爾站轉乘 AREX 機場快線。",
+        "note": "在樂天世界購物中心 (Lotte World Mall) 或周邊解決晚餐",
+        "recommendations": [
+          {
+            "restaurant": "芳荑洞脊骨土豆湯 (방이동감자탕)",
+            "type": "馬鈴薯排骨湯/脊骨土豆湯",
+            "note": "位於蠶室站附近的人氣店，非常適合在玩樂一天後補足體力。",
+            "location": "서울특별시 송파구 방이동 60-1"
+          },
+          {
+            "restaurant": "Jamsil Saemaul Sikdang (新村食堂 蠶室店)",
+            "type": "烤肉、七分鐘泡菜鍋",
+            "note": "連鎖烤肉店，七分鐘泡菜鍋非常有名，經濟實惠又美味。",
+            "location": "서울특별시 송파구 올림픽로12길 12"
+          },
+          {
+            "restaurant": "樂天百貨美食街/超市",
+            "type": "外帶壽司、麵包、輕食",
+            "note": "若不想吃大餐，可到百貨公司的地下美食街或超市購買外帶輕食。",
+            "location": "서울특별시 송파구 올림픽로 240 롯데백화점 잠실점 B1"
+          }
+        ],
         "transportToNext": "2 號線 → 蠶室 (잠실, 216) → 弘大入口 (홍대입구, 239)。"
       }
     ]
@@ -268,6 +431,33 @@
         "transportToNext": "前往南怡島"
       },
       {
+        "time": "中午",
+        "title": "午餐：南怡島/加平地區餐廳選擇",
+        "type": "food",
+        "location": "Nami Island / Gapyeong",
+        "note": "南怡島行程的經典午餐，通常安排在周邊的餐廳。",
+        "recommendations": [
+          {
+            "restaurant": "春川辣炒雞排 (춘천 닭갈비)",
+            "type": "春川特色美食",
+            "note": "在南怡島附近的餐廳享用大份量的辣炒雞排，是加平地區的必吃在地美食。",
+            "location": "강원특별자치도 춘천시 남산면 방하로 297"
+          },
+          {
+            "restaurant": "家常韓式豆腐鍋",
+            "type": "韓式豆腐鍋/韓式料理",
+            "note": "外郊的許多餐廳提供家庭式的韓式料理，如熱騰騰的豆腐鍋，暖胃又健康。",
+            "location": "가평군 남이섬 선착장 인근 한식당 밀집 지역"
+          },
+          {
+            "restaurant": "島上簡餐 (南怡島內)",
+            "type": "簡餐/速食",
+            "note": "如果導遊允許在島內用餐，可以選擇島上的餐廳，節省交通時間。",
+            "location": "남이섬 내 식당 (예: 고목) 또는 푸드코트"
+          }
+        ]
+      },
+      {
         "time": "13:30 - 16:00",
         "title": "南怡島 (Nami Island)",
         "type": "activity",
@@ -295,10 +485,30 @@
       },
       {
         "time": "20:00",
-        "title": "抵達弘大入口站",
-        "type": "transport",
+        "title": "晚餐：弘大入口站附近選擇",
+        "type": "food",
         "location": "Hongik Univ. Station",
-        "note": "行程結束，解散。",
+        "note": "結束一日郊區行程後，在弘大享用晚餐。",
+        "recommendations": [
+          {
+            "restaurant": "孔陵一隻雞 (공릉 닭한마리)",
+            "type": "一隻雞 (湯鍋)",
+            "note": "用一整隻雞熬煮的湯鍋，清淡滋補，加入年糕和刀削麵，絕對是冬天暖身的首選。",
+            "location": "서울특별시 마포구 동교로 220"
+          },
+          {
+            "restaurant": "弘大醬蟹 (홍대 간장게장)",
+            "type": "韓式醬蟹 (飯小偷)",
+            "note": "若喜歡海鮮，可以挑戰一下醬油生蟹或辣醬蟹。",
+            "location": "서울특별시 마포구 홍익로6길 53"
+          },
+          {
+            "restaurant": "申美京辣味燉雞 (신미경닭갈비)",
+            "type": "辣味燉雞",
+            "note": "弘大地區的排隊名店之一，辣味十足，可以加入起司或年糕。",
+            "location": "서울특별시 마포구 홍익로5길 34"
+          }
+        ],
         "transportToHotel": "步行回弘大美居大使酒店"
       }
     ]
@@ -325,8 +535,34 @@
         "type": "activity",
         "location": "Vivaldi Park Snowy Land",
         "note": "自由活動時間。享受雪地設施！(含觀光纜車 + Snowy Land 入場券)",
-        "guideTag": "必玩: 冰雪樂園",
-        "transportToNext": "16:00 集合返回首爾"
+        "guideTag": "必玩: 冰雪樂園"
+      },
+      {
+        "time": "中午",
+        "title": "午餐：度假村內餐廳選擇",
+        "type": "food",
+        "location": "Vivaldi Park Resort",
+        "note": "為了節省時間，建議在維瓦爾第度假村內的餐廳解決午餐。",
+        "recommendations": [
+          {
+            "restaurant": "度假村內美食廣場",
+            "type": "韓式湯飯、速食",
+            "note": "最方便快速的選擇，提供拉麵、烏冬、炒飯等，快速暖身。",
+            "location": "강원특별자치도 홍천군 서면 한치골길 262 비발디파크 푸드코트"
+          },
+          {
+            "restaurant": "義大利麵/西式餐廳",
+            "type": "西餐/簡餐",
+            "note": "度假村內通常有義式餐廳，適合不習慣韓食的旅客。",
+            "location": "강원특별자치도 홍천군 비발디파크 내 식당가"
+          },
+          {
+            "restaurant": "自助餐廳",
+            "type": "吃到飽",
+            "note": "若想吃得豐富，可選擇度假村內的自助餐，快速補充玩雪消耗的體力。",
+            "location": "강원특별자치도 홍천군 비발디파크 내 셰프스 키친"
+          }
+        ]
       },
       {
         "time": "18:30",
@@ -342,7 +578,27 @@
         "type": "food",
         "location": "Hongdae Kyochon Chicken",
         "note": "玩雪後體力消耗大，建議吃高熱量美食補充體力！",
-        "guideTag": "必吃: 橋村炸雞"
+        "guideTag": "必吃: 弘大美食",
+        "recommendations": [
+          {
+            "restaurant": "孔陵一隻雞 (공릉 닭한마리)",
+            "type": "一隻雞 (湯鍋)",
+            "note": "用一整隻雞熬煮的湯鍋，清淡滋補，是冬天暖身的首選。",
+            "location": "서울특별시 마포구 동교로 220"
+          },
+          {
+            "restaurant": "弘大烤腸 (곱창)",
+            "type": "韓式烤腸",
+            "note": "弘大有很多烤腸店，香氣逼人，適合搭配燒酒享受。",
+            "location": "서울특별시 마포구 홍익로6길 53 (홍대입구역 인근)"
+          },
+          {
+            "restaurant": "Zio Cuco 炸豬排",
+            "type": "日式炸豬排",
+            "note": "位於弘大附近，份量大、外酥內嫩的日式炸豬排。",
+            "location": "서울특별시 마포구 홍익로6길 43"
+          }
+        ]
       }
     ]
   },

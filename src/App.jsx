@@ -12,7 +12,9 @@ import {
   Home, 
   Plane,
   Camera,
-  ShoppingBag
+  ShoppingBag,
+  Star,
+  Map
 } from 'lucide-react';
 import itineraryData from './data/itinerary.json';
 import travelInfo from './data/travelInfo.json';
@@ -154,6 +156,54 @@ const SeoulTravelApp = () => {
                       <p className="text-slate-600 text-base font-light leading-relaxed">{step.note}</p>
                     </div>
                   </div>
+                  
+                  {/* Recommendations Section */}
+                  {step.recommendations && step.recommendations.length > 0 && (
+                    <div className="mt-6 pt-6 border-t-2 border-slate-200">
+                      <div className="flex items-center gap-2 mb-4">
+                        <Star size={18} className="text-amber-500 fill-amber-500" strokeWidth={2} />
+                        <h5 className="font-medium text-slate-800 text-base tracking-wide">推薦餐廳</h5>
+                      </div>
+                      <div className="space-y-4">
+                        {step.recommendations.map((rec, recIdx) => (
+                          <div 
+                            key={recIdx}
+                            className="bg-gradient-to-br from-amber-50/50 to-orange-50/30 p-5 rounded-lg border-2 border-amber-200/60 shadow-sm hover:shadow-md transition-all duration-200"
+                          >
+                            <div className="flex items-start gap-3 mb-3">
+                              <div className="mt-1 bg-amber-100 p-2 rounded-lg border border-amber-300">
+                                <Utensils size={16} className="text-amber-700" strokeWidth={2} />
+                              </div>
+                              <div className="flex-1">
+                                <h6 className="font-semibold text-slate-800 text-base mb-1.5 tracking-wide">
+                                  {rec.restaurant}
+                                </h6>
+                                {rec.type && (
+                                  <span className="inline-block text-xs text-amber-700 bg-amber-100 px-2.5 py-1 rounded-full font-medium border border-amber-300 mb-2">
+                                    {rec.type}
+                                  </span>
+                                )}
+                                {rec.note && (
+                                  <p className="text-slate-600 text-sm font-light leading-relaxed mt-2">
+                                    {rec.note}
+                                  </p>
+                                )}
+                              </div>
+                            </div>
+                            {rec.location && (
+                              <button 
+                                onClick={(e) => { e.stopPropagation(); openMap(rec.location); }}
+                                className="mt-3 w-full flex items-center justify-center gap-2 border-2 border-amber-300 text-amber-700 text-sm py-2.5 hover:bg-amber-50 transition-all duration-200 font-medium rounded-lg shadow-sm hover:shadow-md"
+                              >
+                                <Map size={16} strokeWidth={2} />
+                                查看位置
+                              </button>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                   
                   {step.location && (
                     <button 
