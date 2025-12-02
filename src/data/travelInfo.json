@@ -23,7 +23,7 @@
     {
       "icon": "Plane",
       "title": "去程航班",
-      "content": "BR140 0650-1045",
+      "content": "BR146 0650-1045",
       "subContent": "高雄國際機場一航廈 → 仁川國際機場一航廈"
     },
     {
@@ -35,7 +35,7 @@
     {
       "icon": "Plane",
       "title": "回程航班",
-      "content": "BR139 1145-1355",
+      "content": "BR145 1145-1355",
       "subContent": "仁川國際機場一航廈 → 高雄國際機場一航廈"
     }
   ],
